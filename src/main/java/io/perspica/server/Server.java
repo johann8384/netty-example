@@ -1,4 +1,4 @@
-package io.perspica;
+package io.perspica.server;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.EventLoopGroup;

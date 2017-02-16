@@ -1,4 +1,4 @@
-package io.perspica;
+package io.perspica.server;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
